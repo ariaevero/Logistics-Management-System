@@ -1,5 +1,14 @@
 # Logistics Management System
 
+## Ferry technical documentation
+
+The controlled ferry equipment update is maintained in:
+
+- [`docs/ferry_systems_overview.md`](docs/ferry_systems_overview.md) — configuration, system interconnections, calculated nominal capacities, data gaps, and verification checklist.
+- [`docs/ferry_main_asset_list.csv`](docs/ferry_main_asset_list.csv) — sortable main asset list with quantities, ratings, locations, duties, weight fields, and evidence status.
+
+Unknown manufacturer data is explicitly marked TBC rather than estimated. The ferry record confirms 460 W PV modules, no DC–DC converter, the revised pump/socket counts, and the complete 8-battery starting/service arrangement.
+
 Logistics is an important part in many service industries. But as the industries expand and the network grows complex distribution and transport is the main problem to be dealt with most efficiently. The inventory management is another aspect that needs proper planning. Also synchronization between the retailer/vendor/supplier and the delivery management system and the customer is another difficulty. With this proposed logistics management system these problems are promisingly dealt with. This is  an application to manage an optimized solution for local logistics and transportation needs for both businesses and consumers in the urban areas. Logistics is one of the important aspects of the service and the manufacturing industry. Timely delivery of goods and products to appropriate customer is
 necessary. The prevalent logistics systems are efficient but not effective enough. There are multiple drawbacks which eventually lead to the loss of the customer. The proposed logistics management system aims to achieve an integrated logistics system which entirely controls the logistics and also controls the delivery of the product to the said destination with care on time. The system also comes with a comprehensive route tracker which helps to find the optimal route for the delivery of products and also keeps a track of the delivery status. Thus, the proposed system helps the vendor and the customer to deal with the goods reliably.
 
@@ -90,7 +99,6 @@ The system aims to achieve ease of doing business by entirely controlling the de
 ![alt tag](https://github.com/nirbhayph/Logistics-Management-System/blob/master/demo_video/Screenshot_2016-04-12-22-51-41.png)
 
     
-
 
 
 
